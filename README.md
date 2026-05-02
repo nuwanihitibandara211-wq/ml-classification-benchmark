@@ -23,14 +23,5 @@ Complexity ≠ performance on small, structured datasets.
 - pandas, numpy
 - matplotlib, seaborn
 
-## 📁 Structure
-├── ml_benchmark.ipynb   # Full experiment notebook
-├── requirements.txt     # Dependencies
-└── README.md            # Project overview
-
-## 🚀 Run It Yourself
-pip install -r requirements.txt
-jupyter notebook ml_benchmark.ipynb
-
 ## 📝 Article
 Read the full LinkedIn article here: [Link]
