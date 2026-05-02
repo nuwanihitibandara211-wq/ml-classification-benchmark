@@ -24,4 +24,4 @@ Complexity ≠ performance on small, structured datasets.
 - matplotlib, seaborn
 
 ## 📝 Article
-Read the full LinkedIn article here: [Link]
+Read the full LinkedIn article here: [[Link]](https://www.linkedin.com/pulse/simple-models-win-too-classification-benchmark-random-hitibandara-jfpoc)
